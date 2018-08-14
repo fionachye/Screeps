@@ -1,4 +1,3 @@
-require('./pos');
 var roleUpgrader = {
 
     /** @param {Creep} creep **/
